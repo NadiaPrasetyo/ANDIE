@@ -1,3 +1,5 @@
+**ANDIE - Non destructive image editor**
+COSC202 - Software Engineer project at the University of Otago
 
 ## Contributions list
 1. Lachlan:
