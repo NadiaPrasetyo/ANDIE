@@ -7,7 +7,7 @@ COSC202 - Software Engineer project at the University of Otago
     - Sharpen Filter
     - Exception Handling
     - Unit testing
-    - Continuous integration (pipeline)
+    - Continuous integration (pipeline) - With GitLab
     - Region selection (2nd part)
     - Crop to selection (2nd part)
     - Region to selection filter extension (Extra feature)
