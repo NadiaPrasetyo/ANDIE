@@ -2,15 +2,16 @@
 COSC202 - Software Engineer project at the University of Otago
 
 ## Contributions list
-1. Lachlan:
-    - New Tools Menu drop down
-    - Toolbar actions menu (2nd part)
-    - Resize Image(Smaller/Larger)
-    - Rotate Image(Left/Right)
-    - Flip image(Horizontal/Vertical)
-    - Keyboard shortcuts (2nd part)
-    - Macros (2nd part)
-    
+1. Nadia:
+    - Gaussian Blur
+    - Sharpen Filter
+    - Exception Handling
+    - Unit testing
+    - Continuous integration (pipeline)
+    - Region selection (2nd part)
+    - Crop to selection (2nd part)
+    - Region to selection filter extension (Extra feature)
+    - Drawing functions (2nd Part) 
     
 
 2. Jari:
@@ -23,16 +24,14 @@ COSC202 - Software Engineer project at the University of Otago
     - Random Scattering (2nd part)
     - Neko mouse pet (Extra feature)
 
-3. Nadia:
-    - Gaussian Blur
-    - Sharpen Filter
-    - Exception Handling
-    - Unit testing
-    - Continuous integration (pipeline)
-    - Region selection (2nd part)
-    - Crop to selection (2nd part)
-    - Region to selection filter extension (Extra feature)
-    - Drawing functions (2nd Part)
+3. Lachlan:
+    - New Tools Menu drop down
+    - Toolbar actions menu (2nd part)
+    - Resize Image(Smaller/Larger)
+    - Rotate Image(Left/Right)
+    - Flip image(Horizontal/Vertical)
+    - Keyboard shortcuts (2nd part)
+    - Macros (2nd part)
 
 4. Judith:
     - Median Filter
